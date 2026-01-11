@@ -1,0 +1,16 @@
+{
+  "email": {
+    "method": "gmail_smtp",
+    "sender_email": "zeshanabduljabbar@gmail.com",
+    "app_password": "ruqg nkyo vccf xthi",
+    "recipient_email": "zeshanabduljabbar@gmail.com"
+  },
+  "linkedin": {
+    "access_token": "",
+    "person_urn": ""
+  },
+  "facebook": {
+    "page_id": "",
+    "page_access_token": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_comment": "Copy this file to config.json and fill in your credentials",
+
+  "email": {
+    "_comment_methods": "Available methods: gmail_smtp, gmail_api, console (for testing)",
+    "method": "gmail_smtp",
+    "sender_email": "your-email@gmail.com",
+    "app_password": "your-gmail-app-password",
+    "_comment_app_password": "Get app password: https://support.google.com/accounts/answer/185833",
+    "recipient_email": "your-email@gmail.com"
+  },
+
+  "linkedin": {
+    "_comment_setup": "Get credentials from: https://www.linkedin.com/developers/",
+    "access_token": "your-linkedin-access-token",
+    "person_urn": "urn:li:person:your-person-id",
+    "_comment_person_urn": "Format: urn:li:person:XXXXXXXXX"
+  },
+
+  "facebook": {
+    "_comment_setup": "Get credentials from: https://developers.facebook.com/",
+    "page_id": "your-facebook-page-id",
+    "page_access_token": "your-page-access-token",
+    "_comment_permissions": "Token needs 'pages_manage_posts' permission"
+  }
+}
