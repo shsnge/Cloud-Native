@@ -1,0 +1,46 @@
+{
+  "_comment": "Define job requirements here for scoring candidates",
+
+  "position": "Senior Software Engineer",
+  "_comment_position": "Job position title",
+
+  "required_skills": [
+    "Python",
+    "JavaScript",
+    "React",
+    "Node.js"
+  ],
+  "_comment_required": "Must-have skills (0-3 points)",
+
+  "preferred_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "PostgreSQL",
+    "MongoDB"
+  ],
+  "_comment_preferred": "Nice-to-have skills (0-2 points)",
+
+  "min_experience": 3,
+  "_comment_experience": "Minimum years of experience (0-2 points)",
+
+  "education": [
+    "Bachelor's",
+    "Master's",
+    "BSCS",
+    "MCS",
+    "BS Computer Science",
+    "Computer Science"
+  ],
+  "_comment_education": "Required education levels (0-1 point)",
+
+  "keywords": [
+    "Full Stack",
+    "API Development",
+    "Database",
+    "Cloud",
+    "Agile",
+    "Git"
+  ],
+  "_comment_keywords": "Important keywords to look for (0-2 points)"
+}

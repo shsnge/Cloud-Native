@@ -1,0 +1,33 @@
+{
+  "position": "Senior Software Engineer",
+  "required_skills": [
+    "Python",
+    "JavaScript",
+    "React",
+    "Node.js"
+  ],
+  "preferred_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "PostgreSQL",
+    "MongoDB"
+  ],
+  "min_experience": 3,
+  "education": [
+    "Bachelor's",
+    "Master's",
+    "BSCS",
+    "MCS",
+    "BS Computer Science",
+    "Computer Science"
+  ],
+  "keywords": [
+    "Full Stack",
+    "API Development",
+    "Database",
+    "Cloud",
+    "Agile",
+    "Git"
+  ]
+}

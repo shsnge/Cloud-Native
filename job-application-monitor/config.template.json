@@ -1,0 +1,46 @@
+{
+  "_comment": "Copy this file to config.json and fill in your credentials",
+
+  "email": {
+    "_comment": "Gmail IMAP settings for monitoring applications",
+    "imap_server": "imap.gmail.com",
+    "email_address": "your-email@gmail.com",
+    "app_password": "your-gmail-app-password",
+    "folder": "INBOX",
+    "check_interval": 60,
+    "_comment_interval": "Check for new emails every 60 seconds"
+  },
+
+  "google_sheets": {
+    "_comment": "Google Sheets API configuration",
+    "credentials_file": "credentials.json",
+    "spreadsheet_id": "your-google-sheet-id",
+    "sheet_name": "Applications",
+    "_comment_setup": "Create service account at https://console.cloud.google.com/, download credentials.json, and share sheet with service account email"
+  },
+
+  "whatsapp": {
+    "_comment": "Twilio WhatsApp for notifications",
+    "service": "twilio",
+    "account_sid": "your-twilio-account-sid",
+    "auth_token": "your-twilio-auth-token",
+    "from_number": "whatsapp:+14155238886",
+    "to_number": "whatsapp:+923001234567",
+    "_comment_setup": "Get Twilio credentials from https://www.twilio.com/console"
+  },
+
+  "scoring": {
+    "_comment": "Candidate scoring configuration",
+    "passing_score": 8,
+    "max_score": 10,
+    "_comment_explanation": "Candidates with 8+ score will trigger WhatsApp notification"
+  },
+
+  "auto_reply": {
+    "_comment": "Automatic email reply to applicants",
+    "enabled": true,
+    "subject": "Application Received",
+    "interview_days": 3,
+    "company_name": "Your Company Name"
+  }
+}

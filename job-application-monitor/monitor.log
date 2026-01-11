@@ -1,0 +1,212 @@
+
+2026-01-11 13:29:59,602 - INFO - Loaded 2206 previously processed emails
+2026-01-11 13:29:59,604 - INFO - Loaded 9 previously sent replies
+2026-01-11 13:29:59,605 - ERROR - Failed to initialize Google Sheets: Unable to load PEM file. See https://cryptography.io/en/latest/faq/#why-can-t-i-import-my-pem-file for more details. InvalidData(InvalidByte(4, 95))
+2026-01-11 13:29:59,605 - INFO - ============================================================
+2026-01-11 13:29:59,605 - INFO - JOB APPLICATION MONITOR STARTED
+2026-01-11 13:29:59,606 - INFO - ============================================================
+2026-01-11 13:30:00,817 - INFO - Connected to email: zeshanabduljabbar@gmail.com
+2026-01-11 13:30:00,818 - INFO - Searching for emails with criteria: SINCE 04-Jan-2026
+2026-01-11 13:30:01,010 - INFO - Found 88 emails from last 7 days
+2026-01-11 13:30:01,010 - INFO - Processing 88 most recent emails
+2026-01-11 13:30:01,220 - INFO - Processing email from: zeshanabduljabbar (zeshanabduljabbar@gmail.com)
+2026-01-11 13:30:01,221 - INFO - Subject: Job Post Ready for Review: FRONT END DEVELOPER
+2026-01-11 13:30:01,221 - INFO - Job application detected by keyword 'job' in subject
+2026-01-11 13:30:01,222 - INFO - Extracting position from subject: Job Post Ready for Review: FRONT END DEVELOPER
+2026-01-11 13:30:01,223 - INFO - Position extracted via pattern: Review: Front End Developer
+2026-01-11 13:30:01,225 - ERROR - Error adding to Google Sheets: 'NoneType' object has no attribute 'spreadsheets'
+2026-01-11 13:30:01,225 - INFO - Preparing auto-reply for: zeshanabduljabbar@gmail.com (Name: zeshanabduljabbar)
+2026-01-11 13:30:01,230 - INFO - Preparing email: FROM=zeshanabduljabbar@gmail.com TO=zeshanabduljabbar@gmail.com SUBJECT=Application Received - Review: Front End Developer | SKILL AI
+2026-01-11 13:30:01,231 - INFO - Sending email to: zeshanabduljabbar@gmail.com
+2026-01-11 13:30:04,231 - INFO - Email successfully sent to zeshanabduljabbar@gmail.com
+2026-01-11 13:30:04,231 - INFO - Auto-reply sent successfully to zeshanabduljabbar@gmail.com
+2026-01-11 13:30:04,232 - INFO - Auto-reply sent to zeshanabduljabbar@gmail.com
+2026-01-11 13:30:04,233 - INFO - Application processed. Score: 0/10
+2026-01-11 13:30:04,427 - INFO - Processing email from: zeshanabduljabbar (zeshanabduljabbar@gmail.com)
+2026-01-11 13:30:04,427 - INFO - Subject: Job Post Ready for Review: Frontend developer
+2026-01-11 13:30:04,428 - INFO - Job application detected by keyword 'job' in subject
+2026-01-11 13:30:04,428 - INFO - Extracting position from subject: Job Post Ready for Review: Frontend developer
+2026-01-11 13:30:04,428 - INFO - Position extracted via pattern: Review: Frontend Developer
+2026-01-11 13:30:04,429 - ERROR - Error adding to Google Sheets: 'NoneType' object has no attribute 'spreadsheets'
+2026-01-11 13:30:04,429 - INFO - Already replied to zeshanabduljabbar@gmail.com today. Skipping duplicate email.
+2026-01-11 13:30:04,430 - INFO - Application processed. Score: 0/10
+2026-01-11 13:30:05,480 - INFO - Processing email from: zeeshan abduljabbar (zeeshanabduljabbar2025@gmail.com)
+2026-01-11 13:30:05,480 - INFO - Subject: React Developer
+2026-01-11 13:30:05,481 - INFO - Job application detected by CV attachment: Copy of Blue and Gray Simple Professional CV Resume.pdf
+2026-01-11 13:30:05,482 - INFO - Extracting position from subject: React Developer
+2026-01-11 13:30:05,484 - INFO - Position matched from common titles: React Developer
+2026-01-11 13:30:05,675 - INFO - Extracted CV: Copy of Blue and Gray Simple Professional CV Resume.pdf (2927 chars)
+2026-01-11 13:30:05,676 - ERROR - Error adding to Google Sheets: 'NoneType' object has no attribute 'spreadsheets'
+2026-01-11 13:30:05,676 - INFO - Preparing auto-reply for: zeeshanabduljabbar2025@gmail.com (Name: zeeshan abduljabbar)
+2026-01-11 13:30:05,677 - INFO - Preparing email: FROM=zeshanabduljabbar@gmail.com TO=zeeshanabduljabbar2025@gmail.com SUBJECT=Application Received - React Developer | SKILL AI
+2026-01-11 13:30:05,678 - INFO - Sending email to: zeeshanabduljabbar2025@gmail.com
+2026-01-11 13:30:08,432 - INFO - Email successfully sent to zeeshanabduljabbar2025@gmail.com
+2026-01-11 13:30:08,432 - INFO - Auto-reply sent successfully to zeeshanabduljabbar2025@gmail.com
+2026-01-11 13:30:08,433 - INFO - Auto-reply sent to zeeshanabduljabbar2025@gmail.com
+2026-01-11 13:30:08,434 - INFO - Application processed. Score: 4/10
+2026-01-11 13:30:08,653 - INFO - Processing email from: Mail Delivery Subsystem (mailer-daemon@googlemail.com)
+2026-01-11 13:30:08,653 - INFO - Subject: Delivery Status Notification (Failure)
+2026-01-11 13:30:08,653 - WARNING - Automated email address detected: mailer-daemon@googlemail.com. Skipping auto-reply.
+2026-01-11 13:30:08,653 - INFO - Not a job application. Subject: Delivery Status Notification (Failure)...
+2026-01-11 13:30:08,655 - INFO - Not a job application, skipping
+2026-01-11 13:30:09,103 - INFO - Processing email from: zeeshan abduljabbar (zeeshanabduljabbar2025@gmail.com)
+2026-01-11 13:30:09,104 - INFO - Subject: Frontend Developer
+2026-01-11 13:30:09,105 - INFO - Job application detected by CV attachment: Copy of Blue and Gray Simple Professional CV Resume.pdf
+2026-01-11 13:30:09,106 - INFO - Extracting position from subject: Frontend Developer
+2026-01-11 13:30:09,106 - INFO - Position matched from common titles: Frontend Developer
+2026-01-11 13:30:09,255 - INFO - Extracted CV: Copy of Blue and Gray Simple Professional CV Resume.pdf (2927 chars)
+2026-01-11 13:30:09,256 - ERROR - Error adding to Google Sheets: 'NoneType' object has no attribute 'spreadsheets'
+2026-01-11 13:30:09,256 - INFO - Already replied to zeeshanabduljabbar2025@gmail.com today. Skipping duplicate email.
+2026-01-11 13:30:09,257 - INFO - Application processed. Score: 4/10
+2026-01-11 13:30:09,597 - INFO - Email processing completed. Monitor stopped.
+2026-01-11 13:30:09,598 - INFO - ============================================================
+2026-01-11 13:30:09,598 - INFO - MONITOR FINISHED
+2026-01-11 13:30:09,599 - INFO - ============================================================
+2026-01-11 13:31:58,313 - INFO - Loaded 2211 previously processed emails
+2026-01-11 13:31:58,325 - INFO - Loaded 11 previously sent replies
+2026-01-11 13:31:58,327 - ERROR - Failed to initialize Google Sheets: Unable to load PEM file. See https://cryptography.io/en/latest/faq/#why-can-t-i-import-my-pem-file for more details. InvalidData(InvalidByte(4, 95))
+2026-01-11 13:31:58,328 - INFO - ============================================================
+2026-01-11 13:31:58,328 - INFO - JOB APPLICATION MONITOR STARTED
+2026-01-11 13:31:58,329 - INFO - ============================================================
+2026-01-11 13:31:59,507 - INFO - Connected to email: zeshanabduljabbar@gmail.com
+2026-01-11 13:31:59,509 - INFO - Searching for emails with criteria: SINCE 04-Jan-2026
+2026-01-11 13:31:59,694 - INFO - Found 90 emails from last 7 days
+2026-01-11 13:31:59,695 - INFO - Processing 90 most recent emails
+2026-01-11 13:32:00,449 - INFO - Processing email from: Study Time (studytime552@gmail.com)
+2026-01-11 13:32:00,450 - INFO - Subject: Frontend Developer
+2026-01-11 13:32:00,450 - INFO - Job application detected by CV attachment: Copy of Blue and Gray Simple Professional CV Resume.pdf
+2026-01-11 13:32:00,451 - INFO - Extracting position from subject: Frontend Developer
+2026-01-11 13:32:00,453 - INFO - Position matched from common titles: Frontend Developer
+2026-01-11 13:32:00,620 - INFO - Extracted CV: Copy of Blue and Gray Simple Professional CV Resume.pdf (2927 chars)
+2026-01-11 13:32:00,621 - ERROR - Error adding to Google Sheets: 'NoneType' object has no attribute 'spreadsheets'
+2026-01-11 13:32:00,622 - INFO - Preparing auto-reply for: studytime552@gmail.com (Name: Study Time)
+2026-01-11 13:32:00,625 - INFO - Preparing email: FROM=zeshanabduljabbar@gmail.com TO=studytime552@gmail.com SUBJECT=Application Received - Frontend Developer | SKILL AI
+2026-01-11 13:32:00,626 - INFO - Sending email to: studytime552@gmail.com
+2026-01-11 13:32:03,446 - INFO - Email successfully sent to studytime552@gmail.com
+2026-01-11 13:32:03,446 - INFO - Auto-reply sent successfully to studytime552@gmail.com
+2026-01-11 13:32:03,448 - INFO - Auto-reply sent to studytime552@gmail.com
+2026-01-11 13:32:03,448 - INFO - Application processed. Score: 4/10
+2026-01-11 13:32:03,959 - INFO - Processing email from: zeshanabduljabbar (zeshanabduljabbar@gmail.com)
+2026-01-11 13:32:03,960 - INFO - Subject: Application Received - Review: Front End Developer | SKILL AI
+2026-01-11 13:32:03,962 - INFO - Job application detected by keyword 'application' in subject
+2026-01-11 13:32:03,963 - INFO - Extracting position from subject: Application Received - Review: Front End Developer | SKILL AI
+2026-01-11 13:32:03,966 - INFO - Position extracted from first words: Application Received -
+2026-01-11 13:32:03,968 - ERROR - Error adding to Google Sheets: 'NoneType' object has no attribute 'spreadsheets'
+2026-01-11 13:32:03,969 - INFO - Already replied to zeshanabduljabbar@gmail.com today. Skipping duplicate email.
+2026-01-11 13:32:03,971 - INFO - Application processed. Score: 0/10
+2026-01-11 13:32:04,308 - INFO - Email processing completed. Monitor stopped.
+2026-01-11 13:32:04,309 - INFO - ============================================================
+2026-01-11 13:32:04,309 - INFO - MONITOR FINISHED
+2026-01-11 13:32:04,310 - INFO - ============================================================
+2026-01-11 15:48:34,588 - INFO - Loaded 2213 previously processed emails
+2026-01-11 15:48:34,599 - INFO - Loaded 12 previously sent replies
+2026-01-11 15:48:34,599 - INFO - Google Sheets disabled. Using CSV storage.
+2026-01-11 15:48:34,608 - INFO - CSV storage enabled.
+2026-01-11 15:48:34,609 - INFO - ============================================================
+2026-01-11 15:48:34,609 - INFO - JOB APPLICATION MONITOR STARTED
+2026-01-11 15:48:34,610 - INFO - ============================================================
+2026-01-11 15:48:37,378 - INFO - Connected to email: zeshanabduljabbar@gmail.com
+2026-01-11 15:48:37,378 - INFO - Searching for emails with criteria: SINCE 04-Jan-2026
+2026-01-11 15:48:37,884 - INFO - Found 91 emails from last 7 days
+2026-01-11 15:48:37,884 - INFO - Processing 91 most recent emails
+2026-01-11 15:48:41,590 - INFO - Processing email from: LinkedIn Job Alerts (jobalerts-noreply@linkedin.com)
+2026-01-11 15:48:41,591 - INFO - Subject: =?UTF-8?Q?=E2=80=9CGenerative_AI_Engineer=E2=80=9D:_Fathom_Sa?=
+ =?UTF-8?Q?fety_Ltd_-_Prompt_Engineer_and_more?=
+2026-01-11 15:48:41,591 - WARNING - Automated email address detected: jobalerts-noreply@linkedin.com. Skipping auto-reply.
+2026-01-11 15:48:41,592 - INFO - Job application detected from job portal: linkedin.com
+2026-01-11 15:48:41,592 - INFO - Extracting position from subject: =?UTF-8?Q?=E2=80=9CGenerative_AI_Engineer=E2=80=9D:_Fathom_Sa?=
+ =?UTF-8?Q?fety_Ltd_-_Prompt_Engineer_and_more?=
+2026-01-11 15:48:41,595 - INFO - Position extracted via pattern: 8?q?fety Ltd
+2026-01-11 15:48:41,596 - INFO - Application processed. Score: 0/10
+2026-01-11 15:48:42,268 - INFO - Email processing completed. Monitor stopped.
+2026-01-11 15:48:42,269 - INFO - ============================================================
+2026-01-11 15:48:42,270 - INFO - MONITOR FINISHED
+2026-01-11 15:48:42,270 - INFO - ============================================================
+2026-01-11 15:53:11,414 - INFO - Loaded 2214 previously processed emails
+2026-01-11 15:53:11,415 - INFO - Loaded 12 previously sent replies
+2026-01-11 15:53:11,415 - INFO - Google Sheets disabled. Using CSV storage.
+2026-01-11 15:53:11,417 - INFO - CSV storage enabled.
+2026-01-11 15:53:11,417 - INFO - ============================================================
+2026-01-11 15:53:11,417 - INFO - JOB APPLICATION MONITOR STARTED
+2026-01-11 15:53:11,418 - INFO - ============================================================
+2026-01-11 15:53:12,701 - INFO - Connected to email: zeshanabduljabbar@gmail.com
+2026-01-11 15:53:12,702 - INFO - Searching for emails with criteria: SINCE 04-Jan-2026
+2026-01-11 15:53:12,941 - INFO - Found 92 emails from last 7 days
+2026-01-11 15:53:12,941 - INFO - Processing 92 most recent emails
+2026-01-11 15:53:13,709 - INFO - Processing email from: zeeshan abduljabbar (zeeshanabduljabbar2025@gmail.com)
+2026-01-11 15:53:13,709 - INFO - Subject: Frontend Developer Job
+2026-01-11 15:53:13,710 - INFO - Job application detected by keyword 'job' in subject
+2026-01-11 15:53:13,710 - INFO - Extracting position from subject: Frontend Developer Job
+2026-01-11 15:53:13,711 - INFO - Position extracted via pattern: Frontend Developer
+2026-01-11 15:53:13,880 - INFO - Extracted CV: Copy of Blue and Gray Simple Professional CV Resume.pdf (2927 chars)
+2026-01-11 15:53:13,883 - INFO - Already replied to zeeshanabduljabbar2025@gmail.com today. Skipping duplicate email.
+2026-01-11 15:53:13,884 - INFO - Application processed. Score: 4/10
+2026-01-11 15:53:14,255 - INFO - Email processing completed. Monitor stopped.
+2026-01-11 15:53:14,255 - INFO - ============================================================
+2026-01-11 15:53:14,256 - INFO - MONITOR FINISHED
+2026-01-11 15:53:14,256 - INFO - ============================================================
+2026-01-11 19:36:46,177 - INFO - Loaded 2215 previously processed emails
+2026-01-11 19:36:46,188 - INFO - Loaded 12 previously sent replies
+2026-01-11 19:36:46,197 - INFO - Google Sheets disabled. Using CSV storage.
+2026-01-11 19:36:46,199 - INFO - CSV storage enabled.
+2026-01-11 19:36:46,206 - INFO - ============================================================
+2026-01-11 19:36:46,208 - INFO - JOB APPLICATION MONITOR STARTED
+2026-01-11 19:36:46,208 - INFO - ============================================================
+2026-01-11 19:36:48,370 - INFO - Connected to email: zeshanabduljabbar@gmail.com
+2026-01-11 19:36:48,379 - INFO - Searching for emails with criteria: SINCE 04-Jan-2026
+2026-01-11 19:36:48,649 - INFO - Found 95 emails from last 7 days
+2026-01-11 19:36:48,684 - INFO - Processing 95 most recent emails
+2026-01-11 19:36:49,211 - INFO - Processing email from: UTUA Information (contato@utua.com.br)
+2026-01-11 19:36:49,232 - INFO - Subject: Check information about your application
+2026-01-11 19:36:49,264 - INFO - Job application detected by keyword 'application' in subject
+2026-01-11 19:36:49,285 - INFO - Extracting position from subject: Check information about your application
+2026-01-11 19:36:49,417 - INFO - Position extracted via pattern: Check
+2026-01-11 19:36:49,478 - INFO - Already replied to contato@utua.com.br today. Skipping duplicate email.
+2026-01-11 19:36:49,530 - INFO - Application processed. Score: 0/10
+2026-01-11 19:36:50,106 - INFO - Processing email from: Hisham Sarwar via LinkedIn (newsletters-noreply@linkedin.com)
+2026-01-11 19:36:50,134 - INFO - Subject: 10 Ways Small Businesses Can Get More Leads With GoHighLevel
+2026-01-11 19:36:50,163 - WARNING - Automated email address detected: newsletters-noreply@linkedin.com. Skipping auto-reply.
+2026-01-11 19:36:50,215 - INFO - Job application detected from job portal: linkedin.com
+2026-01-11 19:36:50,267 - INFO - Extracting position from subject: 10 Ways Small Businesses Can Get More Leads With GoHighLevel
+2026-01-11 19:36:50,301 - INFO - Position extracted from first words: 10 Ways Small
+2026-01-11 19:36:50,401 - INFO - Application processed. Score: 0/10
+2026-01-11 19:36:51,239 - INFO - Processing email from: zeeshan abduljabbar (zeeshanabduljabbar2025@gmail.com)
+2026-01-11 19:36:51,266 - INFO - Subject: Application for Frontend Developer Position
+2026-01-11 19:36:51,314 - INFO - Job application detected by keyword 'application' in subject
+2026-01-11 19:36:51,353 - INFO - Extracting position from subject: Application for Frontend Developer Position
+2026-01-11 19:36:51,387 - INFO - Position extracted via pattern: Application For Frontend Developer
+2026-01-11 19:36:52,303 - INFO - Extracted CV: Copy of Blue and Gray Simple Professional CV Resume.pdf (2927 chars)
+2026-01-11 19:36:52,416 - INFO - Already replied to zeeshanabduljabbar2025@gmail.com today. Skipping duplicate email.
+2026-01-11 19:36:52,472 - INFO - Application processed. Score: 4/10
+2026-01-11 19:36:52,890 - INFO - Email processing completed. Monitor stopped.
+2026-01-11 19:36:52,903 - INFO - ============================================================
+2026-01-11 19:36:52,927 - INFO - MONITOR FINISHED
+2026-01-11 19:36:52,929 - INFO - ============================================================
+2026-01-11 19:41:58,823 - INFO - Loaded 2218 previously processed emails
+2026-01-11 19:41:58,826 - INFO - Loaded 12 previously sent replies
+2026-01-11 19:41:58,828 - INFO - Google Sheets disabled. Using CSV storage.
+2026-01-11 19:41:58,842 - INFO - CSV storage enabled.
+2026-01-11 19:41:58,853 - INFO - ============================================================
+2026-01-11 19:41:58,858 - INFO - JOB APPLICATION MONITOR STARTED
+2026-01-11 19:41:58,859 - INFO - ============================================================
+2026-01-11 19:42:02,454 - INFO - Connected to email: zeshanabduljabbar@gmail.com
+2026-01-11 19:42:02,468 - INFO - Searching for emails with criteria: SINCE 04-Jan-2026
+2026-01-11 19:42:03,836 - INFO - Found 96 emails from last 7 days
+2026-01-11 19:42:03,838 - INFO - Processing 96 most recent emails
+2026-01-11 19:42:08,476 - INFO - Processing email from: Musab zeeshan (musabbinzeshan@gmail.com)
+2026-01-11 19:42:08,478 - INFO - Subject: Application for Frontend Developer Position
+2026-01-11 19:42:08,478 - INFO - Job application detected by keyword 'application' in subject
+2026-01-11 19:42:08,479 - INFO - Extracting position from subject: Application for Frontend Developer Position
+2026-01-11 19:42:08,483 - INFO - Position extracted via pattern: Application For Frontend Developer
+2026-01-11 19:42:09,091 - INFO - Extracted CV: Copy of Blue and Gray Simple Professional CV Resume.pdf (2927 chars)
+2026-01-11 19:42:09,104 - INFO - Preparing auto-reply for: musabbinzeshan@gmail.com (Name: Musab zeeshan)
+2026-01-11 19:42:09,119 - INFO - Preparing email: FROM=zeshanabduljabbar@gmail.com TO=musabbinzeshan@gmail.com SUBJECT=Application Received - Application For Frontend Developer | SKILL AI
+2026-01-11 19:42:09,121 - INFO - Sending email to: musabbinzeshan@gmail.com
+2026-01-11 19:42:12,091 - INFO - Email successfully sent to musabbinzeshan@gmail.com
+2026-01-11 19:42:12,104 - INFO - Auto-reply sent successfully to musabbinzeshan@gmail.com
+2026-01-11 19:42:12,109 - INFO - Auto-reply sent to musabbinzeshan@gmail.com
+2026-01-11 19:42:12,113 - INFO - Application processed. Score: 4/10
+2026-01-11 19:42:20,192 - INFO - Email processing completed. Monitor stopped.
+2026-01-11 19:42:20,194 - INFO - ============================================================
+2026-01-11 19:42:20,195 - INFO - MONITOR FINISHED
+2026-01-11 19:42:20,196 - INFO - ============================================================

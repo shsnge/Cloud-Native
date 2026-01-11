@@ -1,0 +1,36 @@
+{
+  "email": {
+    "imap_server": "imap.gmail.com",
+    "email_address": "zeshanabduljabbar@gmail.com",
+    "app_password": "ruqg nkyo vccf xthi",
+    "folder": "INBOX",
+    "check_interval": 60
+  },
+  "google_sheets": {
+    "enabled": false,
+    "credentials_file": "credentials.json",
+    "spreadsheet_id": "1lVMK9UWIeEHa-HzxDTom30agmMLujgJAEEp1feqJz4U",
+    "sheet_name": "Applications"
+  },
+  "csv_storage": {
+    "enabled": true,
+    "file": "applications_backup.csv"
+  },
+  "whatsapp": {
+    "service": "twilio",
+    "account_sid": "",
+    "auth_token": "",
+    "from_number": "",
+    "to_number": ""
+  },
+  "scoring": {
+    "passing_score": 8,
+    "max_score": 10
+  },
+  "auto_reply": {
+    "enabled": true,
+    "subject": "Application Received - SKILL AI",
+    "interview_days": 3,
+    "company_name": "SKILL AI"
+  }
+}
